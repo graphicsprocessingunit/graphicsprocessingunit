@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 - 🔭 I’m currently working on **A fancy notepad application built in Rust!**
 
-- 🌱 I’m currently learning **Rust Programming Language**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [github.com/graphicsprocessingunit](github.com/graphicsprocessingunit)
 
