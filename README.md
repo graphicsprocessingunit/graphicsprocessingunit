@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-- 🔭 I’m currently working on **A fancy notepad application built in Rust!**
+- 🔭 I’m currently working on Nothing. ;-;
 
 - 🌱 I’m currently learning **Java**
 
